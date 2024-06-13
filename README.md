@@ -6,13 +6,13 @@ Required Fields:
 Full Name, Email ID, Phone Number, Password and Confirm Password
 
 Validation Criteria:
- Name must not be less than 5 characters
- Email Id should have @ character in it
- Phone Number should not be 123456789 and must be a 10-digit number.
- Password cannot be ‘password’ or ‘name of the user’ or less than 8 characters.
- Password and confirm password should match
- Whenever any of the above are not met, the error should pop saying ex; “enter
+1. Name must not be less than 5 characters
+2. Email Id should have @ character in it
+3. Phone Number should not be 123456789 and must be a 10-digit number.
+4. Password cannot be ‘password’ or ‘name of the user’ or less than 8 characters.
+5. Password and confirm password should match
+6. Whenever any of the above are not met, the error should pop saying ex; “enter
   correct email” or “password is not strong” etc
- You can include more conditions and fields to the form validation but the above
+7. You can include more conditions and fields to the form validation but the above
   are mandatory.
 
